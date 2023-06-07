@@ -10,7 +10,7 @@ Please ⭐️ this repo and share it with others
 ## Screenshot
 |               Calculator HTML               
 :------------------------------------------------:
- ![Calculator screenshot](calculator-HTML-CSS.png) 
+ ![Calculator](Calculator-HTML-CSS.png)
 
 
 ## Installation 🔌
